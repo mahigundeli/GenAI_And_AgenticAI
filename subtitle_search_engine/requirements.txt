@@ -1,0 +1,10 @@
+pandas
+langchain_core
+langchain-openai
+langchain-text-splitters
+langchain-community
+tqdm
+Chroma
+pydantic
+streamlit
+openai

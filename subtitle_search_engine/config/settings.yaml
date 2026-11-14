@@ -1,0 +1,4 @@
+DB_FILE_RELATIVE_PATH: "data\\eng_subtitles_database.db"
+ChromaDB_PERSIST_DIRECTORY: "./subtitles_chroma_db"
+OPENAI_EMBEDDING_MODEL: "text-embedding-3-small"
+OPENAI_SUBTITLE_ANALYZER_MODEL: "gpt-4o-mini"
